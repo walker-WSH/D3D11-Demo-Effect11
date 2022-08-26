@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  D3D11-Demo.cpp
+  D3D11-DemoDlg.cpp
+C:\WORKSPACE\D3D11-Demo-Effect11\D3D11-DemoDlg.cpp(265,40): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+C:\WORKSPACE\D3D11-Demo-Effect11\D3D11-DemoDlg.cpp(269,40): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+C:\WORKSPACE\D3D11-Demo-Effect11\D3D11-DemoDlg.cpp(281,36): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+C:\WORKSPACE\D3D11-Demo-Effect11\D3D11-DemoDlg.cpp(286,36): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+C:\WORKSPACE\D3D11-Demo-Effect11\D3D11-DemoDlg.cpp(291,36): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+C:\WORKSPACE\D3D11-Demo-Effect11\D3D11-DemoDlg.cpp(296,36): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  ImplShader.cpp
+  ImplSwap.cpp
+  ImplTexture.cpp
+C:\WORKSPACE\D3D11-Demo-Effect11\ImplTexture.cpp(326,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\WORKSPACE\D3D11-Demo-Effect11\ImplTexture.cpp(327,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Player.cpp
+C:\WORKSPACE\D3D11-Demo-Effect11\Player.cpp(141,16): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\WORKSPACE\D3D11-Demo-Effect11\Player.cpp(142,16): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  RenderCenter.cpp
+C:\WORKSPACE\D3D11-Demo-Effect11\RenderCenter.cpp(133,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\WORKSPACE\D3D11-Demo-Effect11\RenderCenter.cpp(146,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\WORKSPACE\D3D11-Demo-Effect11\RenderCenter.cpp(148,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\WORKSPACE\D3D11-Demo-Effect11\RenderCenter.cpp(402,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\WORKSPACE\D3D11-Demo-Effect11\RenderCenter.cpp(404,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“C:\Program Files (x86)\Windows Kits\8.0\Lib\win8\um\x86\D3DCompiler.lib”
